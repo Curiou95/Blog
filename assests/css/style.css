@@ -1,0 +1,23 @@
+/* main{
+    background: url("/assests/images/zebras-at-range.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+} */
+
+body {
+    background: url(/assests/images/shakespeare-img.jpeg);
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hm-title{
+    font-family: cursive;
+    font-size: 50px;
+}
